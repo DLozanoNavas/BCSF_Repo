@@ -46,4 +46,6 @@ int main(void){
         printf("%p: %i\n", &lista[i], lista[i]);
     }
 
+    free(lista);
+
 }
