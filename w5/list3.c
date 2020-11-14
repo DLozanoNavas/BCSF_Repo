@@ -132,15 +132,15 @@ nodo* AgregarNodo(nodo * lista){
 }
 
 nodo* ImprimirNodo(nodo * lista){
-    int pos = get_int("¿En qué posición quieres el nodo?");
-    nodo * tmp = lista;
+    int pos = get_int("¿Qué nodo quieres imprimir?");
     int PosicionActual = 0;
-    while(tmp -> siguiente != NULL){
-        tmp = tmp -> siguiente;
-        PosicionActual++;
+    for(nodo *tmp = lista ; tmp != NULL; tmp = tmp -> siguiente){
+
         if(PosicionActual == pos){
             printf("El nodo el la pos: %i tiene el valor: %i.\n", PosicionActual, tmp-> numero);
         }
+        tmp = tmp -> siguiente;
+        PosicionActual++;
     }
 
     return lista;
