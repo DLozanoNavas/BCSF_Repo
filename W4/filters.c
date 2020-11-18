@@ -1,10 +1,10 @@
-//include files from these libraries
+// incluir archivos de estas bibliotecas
 #include <math.h>
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////
 
-// Convert image to grayscale
+// Convertir imagen a escala de grises
 void grayscale(int height, int width, RGBTRIPLE image[height][width])
 {
     //scan through height
