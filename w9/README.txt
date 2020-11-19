@@ -1,0 +1,1 @@
+ASP.NET 5.0 MVC App using EF Core.
