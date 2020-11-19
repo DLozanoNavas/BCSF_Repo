@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\BCSF_Repo\\MyMvcApp\\MyMvcApp.csproj": {}
+    "C:\\BCSF_Repo\\w9\\MyMvcApp\\MyMvcApp.csproj": {}
   },
   "projects": {
-    "C:\\BCSF_Repo\\MyMvcApp\\MyMvcApp.csproj": {
+    "C:\\BCSF_Repo\\w9\\MyMvcApp\\MyMvcApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BCSF_Repo\\MyMvcApp\\MyMvcApp.csproj",
+        "projectUniqueName": "C:\\BCSF_Repo\\w9\\MyMvcApp\\MyMvcApp.csproj",
         "projectName": "MyMvcApp",
-        "projectPath": "C:\\BCSF_Repo\\MyMvcApp\\MyMvcApp.csproj",
+        "projectPath": "C:\\BCSF_Repo\\w9\\MyMvcApp\\MyMvcApp.csproj",
         "packagesPath": "C:\\Users\\dloza\\.nuget\\packages\\",
-        "outputPath": "C:\\BCSF_Repo\\MyMvcApp\\obj\\",
+        "outputPath": "C:\\BCSF_Repo\\w9\\MyMvcApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -47,6 +47,34 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[5.0.0-alpha.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

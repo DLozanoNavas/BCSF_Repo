@@ -5,9 +5,12 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using MyMvcApp.Data;
+using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
 
 namespace MyMvcApp
 {
@@ -23,6 +26,18 @@ namespace MyMvcApp
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddDbContext<DataBaseContext>(
+                dbContextOptions => dbContextOptions
+                    .UseMySql(
+                            // Replace with your connection string.
+                            "server=localhost;port=3306;user=abcuser;password=Password123@;database=pizzeriaapp",
+                            // Replace with your server version and type.
+                            // For common usages, see pull request #1233.
+                            new MySqlServerVersion(new Version(8, 0, 21)), // use MariaDbServerVersion for MariaDB
+                            mySqlOptions => mySqlOptions.CharSetBehavior(CharSetBehavior.NeverAppend)
+                        )
+            );
+
             services.AddControllersWithViews();
         }
 
