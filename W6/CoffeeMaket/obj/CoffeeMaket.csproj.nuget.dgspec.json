@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\BCSF\\W6\\CoffeeMaket\\CoffeeMaket.csproj": {}
+  },
+  "projects": {
+    "C:\\BCSF\\W6\\CoffeeMaket\\CoffeeMaket.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\BCSF\\W6\\CoffeeMaket\\CoffeeMaket.csproj",
+        "projectName": "CoffeeMaket",
+        "projectPath": "C:\\BCSF\\W6\\CoffeeMaket\\CoffeeMaket.csproj",
+        "packagesPath": "C:\\Users\\dloza\\.nuget\\packages\\",
+        "outputPath": "C:\\BCSF\\W6\\CoffeeMaket\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dloza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://localhost:1245/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/eHMAiI3jw6izcqX3uCWc4ql8ukGnguZwVt2JmyOYfGxIChCBWT/api": {},
+          "https://nugets.fenixalliance.com.co/nuget": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-rc.2.20479.15\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
