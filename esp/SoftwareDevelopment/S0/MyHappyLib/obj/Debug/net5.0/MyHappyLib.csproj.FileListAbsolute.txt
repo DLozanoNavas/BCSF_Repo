@@ -1,0 +1,12 @@
+C:\BCSF_Repo\esp\SoftwareDevelopment\S0\MyHappyLib\bin\Debug\net5.0\MyHappyLib.deps.json
+C:\BCSF_Repo\esp\SoftwareDevelopment\S0\MyHappyLib\bin\Debug\net5.0\MyHappyLib.dll
+C:\BCSF_Repo\esp\SoftwareDevelopment\S0\MyHappyLib\bin\Debug\net5.0\ref\MyHappyLib.dll
+C:\BCSF_Repo\esp\SoftwareDevelopment\S0\MyHappyLib\bin\Debug\net5.0\MyHappyLib.pdb
+C:\BCSF_Repo\esp\SoftwareDevelopment\S0\MyHappyLib\obj\Debug\net5.0\MyHappyLib.csprojAssemblyReference.cache
+C:\BCSF_Repo\esp\SoftwareDevelopment\S0\MyHappyLib\obj\Debug\net5.0\MyHappyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\BCSF_Repo\esp\SoftwareDevelopment\S0\MyHappyLib\obj\Debug\net5.0\MyHappyLib.AssemblyInfoInputs.cache
+C:\BCSF_Repo\esp\SoftwareDevelopment\S0\MyHappyLib\obj\Debug\net5.0\MyHappyLib.AssemblyInfo.cs
+C:\BCSF_Repo\esp\SoftwareDevelopment\S0\MyHappyLib\obj\Debug\net5.0\MyHappyLib.csproj.CoreCompileInputs.cache
+C:\BCSF_Repo\esp\SoftwareDevelopment\S0\MyHappyLib\obj\Debug\net5.0\MyHappyLib.dll
+C:\BCSF_Repo\esp\SoftwareDevelopment\S0\MyHappyLib\obj\Debug\net5.0\ref\MyHappyLib.dll
+C:\BCSF_Repo\esp\SoftwareDevelopment\S0\MyHappyLib\obj\Debug\net5.0\MyHappyLib.pdb

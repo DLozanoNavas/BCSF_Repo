@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MyHappyLib/1.0.0": {
+        "runtime": {
+          "MyHappyLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyHappyLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
