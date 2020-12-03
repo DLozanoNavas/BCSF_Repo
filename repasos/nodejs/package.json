@@ -1,14 +1,21 @@
 {
-  "name": "nodejs",
+  "name": "my_nodejs_app",
   "version": "1.0.0",
-  "description": "My Node.js app",
+  "description": "My Node.js App",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./server/server.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "DLozanoNavas",
+  "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
+    "angular": "^1.8.2",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.2",
+    "path": "^0.12.7",
+    "pug": "^3.0.0"
   }
 }
