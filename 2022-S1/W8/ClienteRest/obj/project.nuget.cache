@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OP5/k+//ph7pFMKiAWOHCyYMMvUulj6mYEuk3wuUpZaJsivXK5EZM88jIJCSOHd+N3Js2QXjSw6fPIDJj5TBzQ==",
+  "success": true,
+  "projectFilePath": "C:\\BCSF\\W8\\ClienteRest\\ClienteRest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dloza\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

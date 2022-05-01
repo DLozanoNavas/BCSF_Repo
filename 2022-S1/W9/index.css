@@ -1,0 +1,15 @@
+.myclass {
+    margin-top:100px; 
+    margin-left:25px; 
+    border-width: 2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+
+.text-green {
+    color: green;
+}
+
+.text-red {
+    color: red;
+}

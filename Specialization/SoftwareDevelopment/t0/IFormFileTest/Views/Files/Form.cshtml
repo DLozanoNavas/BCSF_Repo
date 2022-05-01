@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Form";
+}
+
+<form asp-action="Submit" asp-contoller="Files"  method="POST">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+
+                <div class="form-group">
+                    <label for="exampleInputEmail1">Ingresa El Numbre del archivo</label>
+                    <input name="FileName" type="text" placeholder="Ingresa El Numbre del archivo">
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputEmail1">Sube tu foto</label>
+                    <input name="TmpFile" type="file" placeholder="Sube tu foto">
+                </div>
+
+
+                <div class="form-group">
+                    <label for="exampleInputEmail1">Sube tus archivos</label>
+                    <input name="TmpFiles" type="file" multiple placeholder="Sube tus fotos">
+                </div>
+
+                <button type="submit">Enviar</button>
+            </div>
+        </div>
+    </div>
+</form>

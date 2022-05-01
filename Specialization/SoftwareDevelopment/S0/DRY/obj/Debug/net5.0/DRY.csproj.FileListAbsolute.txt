@@ -1,0 +1,16 @@
+C:\BCSF_Repo\esp\SoftwareDevelopment\S0\DRY\bin\Debug\net5.0\DRY.exe
+C:\BCSF_Repo\esp\SoftwareDevelopment\S0\DRY\bin\Debug\net5.0\DRY.deps.json
+C:\BCSF_Repo\esp\SoftwareDevelopment\S0\DRY\bin\Debug\net5.0\DRY.runtimeconfig.json
+C:\BCSF_Repo\esp\SoftwareDevelopment\S0\DRY\bin\Debug\net5.0\DRY.runtimeconfig.dev.json
+C:\BCSF_Repo\esp\SoftwareDevelopment\S0\DRY\bin\Debug\net5.0\DRY.dll
+C:\BCSF_Repo\esp\SoftwareDevelopment\S0\DRY\bin\Debug\net5.0\ref\DRY.dll
+C:\BCSF_Repo\esp\SoftwareDevelopment\S0\DRY\bin\Debug\net5.0\DRY.pdb
+C:\BCSF_Repo\esp\SoftwareDevelopment\S0\DRY\obj\Debug\net5.0\DRY.csprojAssemblyReference.cache
+C:\BCSF_Repo\esp\SoftwareDevelopment\S0\DRY\obj\Debug\net5.0\DRY.GeneratedMSBuildEditorConfig.editorconfig
+C:\BCSF_Repo\esp\SoftwareDevelopment\S0\DRY\obj\Debug\net5.0\DRY.AssemblyInfoInputs.cache
+C:\BCSF_Repo\esp\SoftwareDevelopment\S0\DRY\obj\Debug\net5.0\DRY.AssemblyInfo.cs
+C:\BCSF_Repo\esp\SoftwareDevelopment\S0\DRY\obj\Debug\net5.0\DRY.csproj.CoreCompileInputs.cache
+C:\BCSF_Repo\esp\SoftwareDevelopment\S0\DRY\obj\Debug\net5.0\DRY.dll
+C:\BCSF_Repo\esp\SoftwareDevelopment\S0\DRY\obj\Debug\net5.0\ref\DRY.dll
+C:\BCSF_Repo\esp\SoftwareDevelopment\S0\DRY\obj\Debug\net5.0\DRY.pdb
+C:\BCSF_Repo\esp\SoftwareDevelopment\S0\DRY\obj\Debug\net5.0\DRY.genruntimeconfig.cache

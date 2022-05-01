@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "polymorphism/1.0.0": {
+        "dependencies": {
+          "AnimalesHechosPorDaniel": "1.0.0"
+        },
+        "runtime": {
+          "polymorphism.dll": {}
+        }
+      },
+      "AnimalesBase/1.0.0": {
+        "runtime": {
+          "AnimalesBase.dll": {}
+        }
+      },
+      "AnimalesHechosPorDaniel/1.0.0": {
+        "dependencies": {
+          "AnimalesBase": "1.0.0"
+        },
+        "runtime": {
+          "AnimalesHechosPorDaniel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "polymorphism/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AnimalesBase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AnimalesHechosPorDaniel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

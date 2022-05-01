@@ -1,0 +1,16 @@
+C:\BCSF\W6\EstructurasAbstractas\bin\Debug\net5.0\EstructurasAbstractas.exe
+C:\BCSF\W6\EstructurasAbstractas\bin\Debug\net5.0\EstructurasAbstractas.deps.json
+C:\BCSF\W6\EstructurasAbstractas\bin\Debug\net5.0\EstructurasAbstractas.runtimeconfig.json
+C:\BCSF\W6\EstructurasAbstractas\bin\Debug\net5.0\EstructurasAbstractas.runtimeconfig.dev.json
+C:\BCSF\W6\EstructurasAbstractas\bin\Debug\net5.0\EstructurasAbstractas.dll
+C:\BCSF\W6\EstructurasAbstractas\bin\Debug\net5.0\ref\EstructurasAbstractas.dll
+C:\BCSF\W6\EstructurasAbstractas\bin\Debug\net5.0\EstructurasAbstractas.pdb
+C:\BCSF\W6\EstructurasAbstractas\obj\Debug\net5.0\EstructurasAbstractas.csprojAssemblyReference.cache
+C:\BCSF\W6\EstructurasAbstractas\obj\Debug\net5.0\EstructurasAbstractas.GeneratedMSBuildEditorConfig.editorconfig
+C:\BCSF\W6\EstructurasAbstractas\obj\Debug\net5.0\EstructurasAbstractas.AssemblyInfoInputs.cache
+C:\BCSF\W6\EstructurasAbstractas\obj\Debug\net5.0\EstructurasAbstractas.AssemblyInfo.cs
+C:\BCSF\W6\EstructurasAbstractas\obj\Debug\net5.0\EstructurasAbstractas.csproj.CoreCompileInputs.cache
+C:\BCSF\W6\EstructurasAbstractas\obj\Debug\net5.0\EstructurasAbstractas.dll
+C:\BCSF\W6\EstructurasAbstractas\obj\Debug\net5.0\ref\EstructurasAbstractas.dll
+C:\BCSF\W6\EstructurasAbstractas\obj\Debug\net5.0\EstructurasAbstractas.pdb
+C:\BCSF\W6\EstructurasAbstractas\obj\Debug\net5.0\EstructurasAbstractas.genruntimeconfig.cache

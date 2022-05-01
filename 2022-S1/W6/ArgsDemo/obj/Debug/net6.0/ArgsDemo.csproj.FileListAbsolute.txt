@@ -1,0 +1,15 @@
+C:\Code\BCSF\W6\ArgsDemo\bin\Debug\net6.0\ArgsDemo.exe
+C:\Code\BCSF\W6\ArgsDemo\bin\Debug\net6.0\ArgsDemo.deps.json
+C:\Code\BCSF\W6\ArgsDemo\bin\Debug\net6.0\ArgsDemo.runtimeconfig.json
+C:\Code\BCSF\W6\ArgsDemo\bin\Debug\net6.0\ArgsDemo.dll
+C:\Code\BCSF\W6\ArgsDemo\bin\Debug\net6.0\ref\ArgsDemo.dll
+C:\Code\BCSF\W6\ArgsDemo\bin\Debug\net6.0\ArgsDemo.pdb
+C:\Code\BCSF\W6\ArgsDemo\obj\Debug\net6.0\ArgsDemo.csproj.AssemblyReference.cache
+C:\Code\BCSF\W6\ArgsDemo\obj\Debug\net6.0\ArgsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\BCSF\W6\ArgsDemo\obj\Debug\net6.0\ArgsDemo.AssemblyInfoInputs.cache
+C:\Code\BCSF\W6\ArgsDemo\obj\Debug\net6.0\ArgsDemo.AssemblyInfo.cs
+C:\Code\BCSF\W6\ArgsDemo\obj\Debug\net6.0\ArgsDemo.csproj.CoreCompileInputs.cache
+C:\Code\BCSF\W6\ArgsDemo\obj\Debug\net6.0\ArgsDemo.dll
+C:\Code\BCSF\W6\ArgsDemo\obj\Debug\net6.0\ref\ArgsDemo.dll
+C:\Code\BCSF\W6\ArgsDemo\obj\Debug\net6.0\ArgsDemo.pdb
+C:\Code\BCSF\W6\ArgsDemo\obj\Debug\net6.0\ArgsDemo.genruntimeconfig.cache

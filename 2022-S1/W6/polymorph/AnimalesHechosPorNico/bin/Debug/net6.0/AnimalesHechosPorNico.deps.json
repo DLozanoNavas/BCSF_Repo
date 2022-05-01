@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AnimalesHechosPorNico/1.0.0": {
+        "dependencies": {
+          "AnimalesBase": "1.0.0"
+        },
+        "runtime": {
+          "AnimalesHechosPorNico.dll": {}
+        }
+      },
+      "AnimalesBase/1.0.0": {
+        "runtime": {
+          "AnimalesBase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AnimalesHechosPorNico/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AnimalesBase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

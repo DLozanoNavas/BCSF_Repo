@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\Code\AnimalesBase\bin\Debug\net6.0\AnimalesBase.deps.json
+C:\Users\PC\Desktop\Code\AnimalesBase\bin\Debug\net6.0\AnimalesBase.dll
+C:\Users\PC\Desktop\Code\AnimalesBase\bin\Debug\net6.0\AnimalesBase.pdb
+C:\Users\PC\Desktop\Code\AnimalesBase\obj\Debug\net6.0\AnimalesBase.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Code\AnimalesBase\obj\Debug\net6.0\AnimalesBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Code\AnimalesBase\obj\Debug\net6.0\AnimalesBase.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Code\AnimalesBase\obj\Debug\net6.0\AnimalesBase.AssemblyInfo.cs
+C:\Users\PC\Desktop\Code\AnimalesBase\obj\Debug\net6.0\AnimalesBase.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Code\AnimalesBase\obj\Debug\net6.0\AnimalesBase.dll
+C:\Users\PC\Desktop\Code\AnimalesBase\obj\Debug\net6.0\refint\AnimalesBase.dll
+C:\Users\PC\Desktop\Code\AnimalesBase\obj\Debug\net6.0\AnimalesBase.pdb
+C:\Users\PC\Desktop\Code\AnimalesBase\obj\Debug\net6.0\ref\AnimalesBase.dll

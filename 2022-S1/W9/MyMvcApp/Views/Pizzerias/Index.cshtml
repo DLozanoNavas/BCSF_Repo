@@ -1,0 +1,38 @@
+﻿@model IEnumerable<MyMvcApp.Models.Pizzeria>
+
+@{
+    ViewData["Title"] = "Index Pizzas";
+}
+
+
+<section class="ftco-section">
+    <div class="container">
+        <div class="row justify-content-center mb-5 pb-3">
+            <div class="col-md-7 heading-section ftco-animate text-center fadeInUp ftco-animated">
+                <h2 class="mb-4">Pizzerías</h2>
+                <p class="flip"><span class="deg1"></span><span class="deg2"></span><span class="deg3"></span></p>
+                <p class="mt-5">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
+                    there live the blind texts.</p>
+            </div>
+        </div>
+        <div class="row">
+
+            @foreach (var pizzeria in Model)
+            {
+                <div class="col-md-3 text-center ftco-animate fadeInUp ftco-animated">
+                    <div class="menu-wrap">
+                        <a href="#" class="menu-img img mb-4" style="background-image: url(@pizzeria.UrlLogo);"></a>
+                        <div class="text">
+                            <h3>
+                                <a href="#">@pizzeria.Titulo</a>
+                            </h3>
+                            <p>@pizzeria.Descripcion</p>
+                            <p><a asp-area="" asp-controller="Pizzerias" asp-action="Details" asp-route-id="@pizzeria.ID" class="btn btn-white btn-outline-white">Ver Ofertas</a></p>
+                            <p><a asp-area="" asp-controller="Pizzerias" asp-action="Edit" asp-route-id="@pizzeria.ID" class="btn btn-white btn-outline-white">Editar</a></p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>

@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Code\AnimalesHechosPorDaniel\bin\Debug\net6.0\AnimalesHechosPorDaniel.deps.json
+C:\Users\PC\Desktop\Code\AnimalesHechosPorDaniel\bin\Debug\net6.0\AnimalesHechosPorDaniel.dll
+C:\Users\PC\Desktop\Code\AnimalesHechosPorDaniel\bin\Debug\net6.0\AnimalesHechosPorDaniel.pdb
+C:\Users\PC\Desktop\Code\AnimalesHechosPorDaniel\bin\Debug\net6.0\AnimalesBase.dll
+C:\Users\PC\Desktop\Code\AnimalesHechosPorDaniel\bin\Debug\net6.0\AnimalesBase.pdb
+C:\Users\PC\Desktop\Code\AnimalesHechosPorDaniel\obj\Debug\net6.0\AnimalesHechosPorDaniel.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Code\AnimalesHechosPorDaniel\obj\Debug\net6.0\AnimalesHechosPorDaniel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Code\AnimalesHechosPorDaniel\obj\Debug\net6.0\AnimalesHechosPorDaniel.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Code\AnimalesHechosPorDaniel\obj\Debug\net6.0\AnimalesHechosPorDaniel.AssemblyInfo.cs
+C:\Users\PC\Desktop\Code\AnimalesHechosPorDaniel\obj\Debug\net6.0\AnimalesHechosPorDaniel.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Code\AnimalesHechosPorDaniel\obj\Debug\net6.0\AnimalesHechosPorDaniel.csproj.CopyComplete
+C:\Users\PC\Desktop\Code\AnimalesHechosPorDaniel\obj\Debug\net6.0\AnimalesHechosPorDaniel.dll
+C:\Users\PC\Desktop\Code\AnimalesHechosPorDaniel\obj\Debug\net6.0\refint\AnimalesHechosPorDaniel.dll
+C:\Users\PC\Desktop\Code\AnimalesHechosPorDaniel\obj\Debug\net6.0\AnimalesHechosPorDaniel.pdb
+C:\Users\PC\Desktop\Code\AnimalesHechosPorDaniel\obj\Debug\net6.0\ref\AnimalesHechosPorDaniel.dll

@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Code\AnimalesHechosPorNico\obj\Debug\net6.0\AnimalesHechosPorNico.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Code\AnimalesHechosPorNico\obj\Debug\net6.0\AnimalesHechosPorNico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Code\AnimalesHechosPorNico\obj\Debug\net6.0\AnimalesHechosPorNico.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Code\AnimalesHechosPorNico\obj\Debug\net6.0\AnimalesHechosPorNico.AssemblyInfo.cs
+C:\Users\PC\Desktop\Code\AnimalesHechosPorNico\obj\Debug\net6.0\AnimalesHechosPorNico.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Code\AnimalesHechosPorNico\bin\Debug\net6.0\AnimalesHechosPorNico.deps.json
+C:\Users\PC\Desktop\Code\AnimalesHechosPorNico\bin\Debug\net6.0\AnimalesHechosPorNico.dll
+C:\Users\PC\Desktop\Code\AnimalesHechosPorNico\bin\Debug\net6.0\AnimalesHechosPorNico.pdb
+C:\Users\PC\Desktop\Code\AnimalesHechosPorNico\bin\Debug\net6.0\AnimalesBase.dll
+C:\Users\PC\Desktop\Code\AnimalesHechosPorNico\bin\Debug\net6.0\AnimalesBase.pdb
+C:\Users\PC\Desktop\Code\AnimalesHechosPorNico\obj\Debug\net6.0\AnimalesHechosPorNico.csproj.CopyComplete
+C:\Users\PC\Desktop\Code\AnimalesHechosPorNico\obj\Debug\net6.0\AnimalesHechosPorNico.dll
+C:\Users\PC\Desktop\Code\AnimalesHechosPorNico\obj\Debug\net6.0\refint\AnimalesHechosPorNico.dll
+C:\Users\PC\Desktop\Code\AnimalesHechosPorNico\obj\Debug\net6.0\AnimalesHechosPorNico.pdb
+C:\Users\PC\Desktop\Code\AnimalesHechosPorNico\obj\Debug\net6.0\ref\AnimalesHechosPorNico.dll

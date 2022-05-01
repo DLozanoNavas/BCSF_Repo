@@ -1,0 +1,16 @@
+C:\BCSF\W6\Excepciones\bin\Debug\net5.0\Excepciones.exe
+C:\BCSF\W6\Excepciones\bin\Debug\net5.0\Excepciones.deps.json
+C:\BCSF\W6\Excepciones\bin\Debug\net5.0\Excepciones.runtimeconfig.json
+C:\BCSF\W6\Excepciones\bin\Debug\net5.0\Excepciones.runtimeconfig.dev.json
+C:\BCSF\W6\Excepciones\bin\Debug\net5.0\Excepciones.dll
+C:\BCSF\W6\Excepciones\bin\Debug\net5.0\ref\Excepciones.dll
+C:\BCSF\W6\Excepciones\bin\Debug\net5.0\Excepciones.pdb
+C:\BCSF\W6\Excepciones\obj\Debug\net5.0\Excepciones.csprojAssemblyReference.cache
+C:\BCSF\W6\Excepciones\obj\Debug\net5.0\Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\BCSF\W6\Excepciones\obj\Debug\net5.0\Excepciones.AssemblyInfoInputs.cache
+C:\BCSF\W6\Excepciones\obj\Debug\net5.0\Excepciones.AssemblyInfo.cs
+C:\BCSF\W6\Excepciones\obj\Debug\net5.0\Excepciones.csproj.CoreCompileInputs.cache
+C:\BCSF\W6\Excepciones\obj\Debug\net5.0\Excepciones.dll
+C:\BCSF\W6\Excepciones\obj\Debug\net5.0\ref\Excepciones.dll
+C:\BCSF\W6\Excepciones\obj\Debug\net5.0\Excepciones.pdb
+C:\BCSF\W6\Excepciones\obj\Debug\net5.0\Excepciones.genruntimeconfig.cache
